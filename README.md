@@ -1,1 +1,1 @@
-# Event-Planing-System
+# Online-Event-Planing-System
